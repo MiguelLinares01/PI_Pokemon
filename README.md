@@ -1,2 +1,2 @@
-# PI_Pokemon
-Un pequeño proyecto acerca de los pokemones, poco más
+Se me olvidó como subir elementos a github, este repositorio no es
+
